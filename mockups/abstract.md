@@ -1,0 +1,3 @@
+# Abstract
+
+Introducing a mental health website designed to empower individuals in their journey towards emotional well-being. Our website offers a user-friendly interface with features that include detecting mental state through easy questionnaire and personalized coping strategies. Through evidence-based practices and interactive tools, users can develop resilience, manage stress, and foster a positive mindset. Our website strives to bridge the gap between therapy sessions and daily life, providing a virtual support system that promotes mental wellness and self-care. Join us in reimagining mental health maintenance and achieving emotional balance in today's fast-paced world.
